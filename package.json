@@ -1,0 +1,14 @@
+{
+  "name": "tutorials-js",
+  "version": "1.0.0",
+  "description": "This is a tutorial about node and express.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seb3s159",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
